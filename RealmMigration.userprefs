@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{DDE216CB-C166-4F52-8EE1-750F5DA65B65}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RealmMigration/Startup.cs">
+    <Files>
+      <File FileName="RealmMigration/Models/TestModel.cs" Line="13" Column="1" />
+      <File FileName="RealmMigration/FodyWeavers.xml" Line="5" Column="11" />
+      <File FileName="RealmMigration/Program.cs" Line="19" Column="62" />
+      <File FileName="RealmMigration/Startup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RealmMigration PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/kentfonager/Projects/RealmMigration/RealmMigration/bin/Debug/netcoreapp2.0/RealmMigration.deps.json
+/Users/kentfonager/Projects/RealmMigration/RealmMigration/bin/Debug/netcoreapp2.0/RealmMigration.runtimeconfig.json
+/Users/kentfonager/Projects/RealmMigration/RealmMigration/bin/Debug/netcoreapp2.0/RealmMigration.runtimeconfig.dev.json
+/Users/kentfonager/Projects/RealmMigration/RealmMigration/bin/Debug/netcoreapp2.0/RealmMigration.dll
+/Users/kentfonager/Projects/RealmMigration/RealmMigration/bin/Debug/netcoreapp2.0/RealmMigration.pdb
+/Users/kentfonager/Projects/RealmMigration/RealmMigration/obj/Debug/netcoreapp2.0/RealmMigration.csprojResolveAssemblyReference.cache
+/Users/kentfonager/Projects/RealmMigration/RealmMigration/obj/Debug/netcoreapp2.0/RealmMigration.csproj.CoreCompileInputs.cache
+/Users/kentfonager/Projects/RealmMigration/RealmMigration/obj/Debug/netcoreapp2.0/RealmMigration.AssemblyInfoInputs.cache
+/Users/kentfonager/Projects/RealmMigration/RealmMigration/obj/Debug/netcoreapp2.0/RealmMigration.AssemblyInfo.cs
+/Users/kentfonager/Projects/RealmMigration/RealmMigration/obj/Debug/netcoreapp2.0/RealmMigration.dll
+/Users/kentfonager/Projects/RealmMigration/RealmMigration/obj/Debug/netcoreapp2.0/RealmMigration.pdb
